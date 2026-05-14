@@ -1,0 +1,1001 @@
+﻿patient,frailty_flag,age,sex,imd_decile,ethnicity,n_chronic_cond,n_medication,n_ae_atts,n_pc_cons,geography
+1,0,68,F,2,Not stated,2,5,0,2,A
+2,0,75,M,6,White: British and Irish,18,6,1,18,C
+3,0,68,M,6,White: British and Irish,6,11,0,2,C
+4,0,72,F,10 (least deprived),White: British and Irish,4,5,0,17,B
+5,0,90,F,6,White: British and Irish,11,8,0,62,C
+6,0,69,F,3,White: British and Irish,1,9,0,6,D
+7,0,72,M,10 (least deprived),Not stated,0,6,0,2,B
+8,0,76,F,3,White: British and Irish,7,4,3,19,A
+9,0,82,F,10 (least deprived),White: British and Irish,10,5,0,6,C
+10,1,80,F,3,White: British and Irish,9,6,2,19,A
+11,1,96,M,2,White: British and Irish,16,17,2,14,C
+12,0,88,M,6,White: British and Irish,3,0,0,0,C
+13,0,76,M,2,White: British and Irish,6,5,0,5,D
+14,1,78,M,7,White: British and Irish,22,19,4,11,C
+15,0,91,F,7,White: British and Irish,8,10,0,11,B
+16,0,81,F,7,White: British and Irish,1,6,0,3,A
+17,1,95,M,5,White: British and Irish,11,9,3,16,B
+18,0,71,F,8,White: British and Irish,0,3,0,3,B
+19,0,69,M,9,White: British and Irish,6,3,0,7,C
+20,0,77,F,4,Asian,7,14,0,12,C
+21,0,67,M,6,White: British and Irish,0,0,0,7,C
+22,0,65,F,5,White: British and Irish,0,3,0,1,D
+23,0,78,F,9,White: Other,10,9,0,2,D
+24,0,77,M,3,Asian,7,14,0,21,D
+25,0,79,F,8,White: British and Irish,12,20,3,23,B
+26,0,88,M,4,White: British and Irish,3,5,0,5,C
+27,0,78,M,6,White: British and Irish,6,13,0,27,C
+28,0,73,F,7,White: British and Irish,0,0,0,0,C
+29,0,72,F,1 (most deprived),White: Other,3,2,1,3,B
+30,0,82,F,7,White: British and Irish,8,12,0,13,D
+31,0,78,F,9,White: British and Irish,11,15,1,11,C
+32,0,69,M,7,White: British and Irish,5,3,0,6,D
+33,0,65,F,5,White: British and Irish,0,3,0,0,A
+34,0,67,M,4,White: British and Irish,3,8,2,17,B
+35,0,72,M,7,White: British and Irish,3,10,0,12,C
+36,0,79,F,7,White: British and Irish,5,7,0,6,B
+37,0,78,F,7,White: British and Irish,6,15,0,12,D
+38,0,71,F,6,White: British and Irish,4,10,0,10,B
+39,0,65,F,3,Asian,2,1,0,4,C
+40,0,71,M,1 (most deprived),White: Other,6,4,0,5,B
+41,0,76,M,10 (least deprived),White: British and Irish,0,0,0,0,D
+42,0,68,F,6,White: British and Irish,1,0,0,0,C
+43,0,73,M,3,White: British and Irish,5,9,0,9,A
+44,0,72,F,1 (most deprived),White: Other,3,16,0,10,A
+45,0,76,M,10 (least deprived),White: British and Irish,7,5,0,7,D
+46,0,74,F,8,White: British and Irish,16,16,0,26,B
+47,0,76,M,3,White: British and Irish,0,0,0,0,A
+48,0,87,F,10 (least deprived),White: British and Irish,3,5,0,2,D
+49,0,79,F,9,White: British and Irish,5,4,0,10,D
+50,0,65,F,8,White: British and Irish,0,0,0,0,D
+51,0,73,M,9,White: British and Irish,1,6,0,5,C
+52,0,76,M,5,White: British and Irish,1,0,0,0,D
+53,1,80,F,6,White: British and Irish,13,8,0,12,A
+54,0,75,F,10 (least deprived),White: British and Irish,9,8,0,4,B
+55,0,83,F,5,White: Other,7,9,4,13,C
+56,0,86,F,2,White: Other,10,15,1,4,C
+57,0,91,F,8,White: British and Irish,9,4,0,14,D
+58,0,82,M,10 (least deprived),White: British and Irish,6,10,0,14,B
+59,0,65,F,10 (least deprived),Black,1,4,0,8,B
+60,0,91,M,8,White: British and Irish,16,13,0,16,A
+61,0,71,F,9,Not stated,1,1,0,1,B
+62,0,73,M,7,White: British and Irish,9,7,0,4,B
+63,0,75,F,8,White: British and Irish,7,7,0,7,D
+64,0,70,M,10 (least deprived),Asian,7,10,0,4,A
+65,0,72,F,8,White: British and Irish,4,17,4,45,D
+66,0,70,M,5,Black,3,1,0,4,A
+67,0,71,M,3,White: British and Irish,6,4,0,2,C
+68,0,66,M,10 (least deprived),Asian,1,0,0,0,B
+69,0,69,F,6,White: Other,7,7,1,35,A
+70,0,68,M,9,White: British and Irish,4,9,0,4,D
+71,0,66,M,5,White: British and Irish,6,9,0,16,B
+72,0,74,M,,Asian,1,0,0,1,A
+73,0,66,F,9,White: British and Irish,3,4,0,9,B
+74,0,71,F,6,White: British and Irish,7,11,0,10,C
+75,0,73,M,4,Asian,3,6,0,7,C
+76,0,66,F,3,Not stated,0,0,0,0,A
+77,0,75,F,9,White: British and Irish,8,15,0,8,B
+78,0,72,F,5,Asian,1,6,0,11,C
+79,0,77,M,8,White: British and Irish,8,7,0,14,D
+80,0,66,F,5,White: British and Irish,9,13,0,13,B
+81,0,67,F,2,White: British and Irish,6,3,3,0,C
+82,0,82,F,9,White: British and Irish,3,9,0,7,C
+83,0,83,F,6,White: British and Irish,9,10,0,7,C
+84,0,79,M,6,White: British and Irish,13,15,0,36,B
+85,0,84,M,4,White: British and Irish,6,11,0,4,D
+86,1,86,F,3,White: British and Irish,11,17,2,72,B
+87,1,85,M,3,Black,4,11,0,61,B
+88,0,68,F,5,White: British and Irish,0,4,0,5,C
+89,0,68,M,8,White: British and Irish,0,0,0,4,D
+90,0,88,F,8,White: British and Irish,3,7,0,3,B
+91,0,71,F,4,Asian,5,9,3,24,C
+92,1,69,M,1 (most deprived),White: British and Irish,18,16,3,44,A
+93,1,85,F,4,White: British and Irish,8,9,2,19,C
+94,0,81,F,10 (least deprived),White: British and Irish,1,0,0,1,C
+95,0,85,F,1 (most deprived),White: British and Irish,0,2,0,1,B
+96,0,68,F,7,White: British and Irish,0,3,0,3,A
+97,0,70,F,9,White: British and Irish,4,4,0,14,B
+98,1,85,F,5,White: British and Irish,13,14,4,11,A
+99,0,93,F,7,White: British and Irish,7,6,2,3,D
+100,0,71,M,10 (least deprived),White: British and Irish,10,7,1,36,B
+101,0,71,M,8,White: British and Irish,2,6,0,4,D
+102,0,77,M,8,White: British and Irish,0,4,0,2,A
+103,0,71,M,3,White: British and Irish,4,0,0,0,B
+104,0,71,M,1 (most deprived),Asian,5,14,0,30,C
+105,0,73,F,8,White: British and Irish,5,6,0,13,D
+106,1,90,F,6,White: British and Irish,16,15,1,21,C
+107,0,89,M,7,White: British and Irish,2,3,0,0,D
+108,0,65,M,2,White: British and Irish,0,0,0,0,C
+109,0,86,M,4,White: British and Irish,7,13,0,14,B
+110,0,72,M,7,White: British and Irish,4,5,0,21,B
+111,0,69,F,9,White: British and Irish,2,5,0,11,A
+112,0,95,M,2,White: British and Irish,10,6,3,4,B
+113,0,81,M,7,White: British and Irish,5,5,3,11,B
+114,0,68,M,5,White: British and Irish,3,8,0,10,C
+115,0,65,F,3,Asian,3,8,0,5,A
+116,0,68,F,4,White: British and Irish,4,2,0,0,D
+117,0,72,M,9,White: British and Irish,3,0,0,3,B
+118,0,70,F,7,White: British and Irish,3,5,0,6,D
+119,0,69,F,3,Asian,4,3,0,7,A
+120,0,86,F,4,White: Other,12,12,0,10,A
+121,0,90,F,8,White: British and Irish,7,5,0,15,D
+122,1,76,F,3,White: British and Irish,12,7,6,8,B
+123,0,68,F,4,Asian,4,4,0,8,A
+124,0,73,M,3,White: British and Irish,6,8,0,5,B
+125,0,66,M,6,White: British and Irish,0,0,0,0,D
+126,0,90,M,6,White: Other,0,0,0,0,A
+127,0,79,M,10 (least deprived),White: British and Irish,3,7,0,9,B
+128,0,86,M,9,White: British and Irish,9,8,2,8,A
+129,0,79,F,3,White: British and Irish,3,5,0,5,C
+130,0,80,F,5,Not stated,5,10,0,3,C
+131,0,77,F,10 (least deprived),White: British and Irish,3,2,0,5,B
+132,0,70,M,4,White: British and Irish,10,10,1,11,A
+133,1,66,F,2,Black,14,20,0,28,B
+134,0,82,F,8,White: British and Irish,1,2,0,5,B
+135,0,70,M,8,White: British and Irish,5,12,0,11,C
+136,0,80,F,2,Asian,6,6,4,3,C
+137,0,71,F,2,White: British and Irish,0,0,0,0,A
+138,0,69,M,7,White: British and Irish,3,7,1,6,D
+139,0,68,M,7,White: British and Irish,3,4,0,8,A
+140,0,85,F,2,White: British and Irish,14,17,1,29,B
+141,0,95,F,8,White: British and Irish,17,9,3,10,C
+142,0,68,F,6,White: Other,4,5,0,0,A
+143,0,76,M,6,White: British and Irish,10,16,0,2,D
+144,1,86,M,6,White: British and Irish,18,22,4,38,C
+145,0,80,F,6,White: British and Irish,7,10,0,3,C
+146,1,84,F,1 (most deprived),White: British and Irish,23,23,10,23,A
+147,1,70,F,3,White: British and Irish,15,7,0,27,B
+148,0,87,M,10 (least deprived),White: British and Irish,9,16,2,22,B
+149,1,79,M,6,White: British and Irish,23,25,6,15,C
+150,0,83,M,9,White: British and Irish,3,7,0,14,D
+151,0,72,F,2,White: British and Irish,10,16,0,15,A
+152,0,86,F,8,White: British and Irish,7,11,0,11,C
+153,0,80,F,2,White: British and Irish,0,0,0,0,A
+154,0,71,F,9,White: British and Irish,1,11,0,17,A
+155,0,77,F,8,White: British and Irish,0,3,0,2,D
+156,0,81,F,9,White: British and Irish,11,18,0,15,D
+157,0,71,M,1 (most deprived),Black,6,9,0,4,B
+158,0,70,F,9,Black,1,5,2,8,C
+159,0,83,M,10 (least deprived),White: British and Irish,8,8,1,7,D
+160,0,68,F,7,Not stated,3,0,0,0,D
+161,0,93,F,2,White: British and Irish,10,11,0,9,C
+162,0,72,F,7,White: British and Irish,2,0,0,3,B
+163,0,69,M,6,Mixed,2,4,0,8,D
+164,0,68,F,7,White: British and Irish,2,7,0,5,D
+165,0,75,M,7,White: British and Irish,1,8,0,8,D
+166,0,70,M,7,White: British and Irish,3,0,0,3,D
+167,0,82,M,4,White: British and Irish,8,8,3,4,C
+168,1,84,F,3,White: British and Irish,15,19,2,18,A
+169,0,67,F,4,White: British and Irish,0,0,0,0,B
+170,0,77,M,2,Asian,0,0,0,0,C
+171,0,71,M,8,White: British and Irish,4,3,0,6,D
+172,1,78,F,5,White: British and Irish,18,10,5,31,D
+173,0,73,M,2,Asian,4,10,0,7,A
+174,0,87,M,8,White: British and Irish,9,22,0,23,D
+175,0,67,F,9,White: British and Irish,0,3,0,7,D
+176,0,77,F,4,White: British and Irish,15,16,0,10,D
+177,0,73,F,9,White: British and Irish,7,13,0,14,C
+178,0,70,F,7,White: British and Irish,6,5,0,0,B
+179,0,71,F,6,White: British and Irish,3,4,0,2,C
+180,0,71,M,9,White: British and Irish,0,3,0,11,D
+181,0,72,M,2,White: British and Irish,6,0,0,0,B
+182,0,65,F,3,White: British and Irish,3,3,0,5,B
+183,0,82,F,10 (least deprived),White: British and Irish,6,8,1,8,C
+184,0,87,M,3,White: British and Irish,15,20,2,30,C
+185,0,81,F,3,White: British and Irish,7,6,0,9,C
+186,0,76,F,7,White: British and Irish,1,6,0,6,D
+187,0,91,M,5,White: British and Irish,10,8,2,0,D
+188,0,74,M,6,White: British and Irish,0,4,0,3,C
+189,0,74,M,7,Other,0,0,0,0,B
+190,0,68,F,3,White: British and Irish,0,0,0,7,B
+191,0,67,F,4,Asian,0,0,0,0,D
+192,0,66,F,,Asian,0,0,0,0,C
+193,0,82,F,8,White: British and Irish,5,8,0,11,A
+194,0,72,F,10 (least deprived),White: British and Irish,6,14,0,9,B
+195,1,94,M,8,White: British and Irish,9,14,1,40,D
+196,0,77,F,5,White: British and Irish,5,10,0,14,A
+197,0,83,M,8,Not stated,0,0,0,0,C
+198,0,77,M,4,White: British and Irish,11,20,3,23,C
+199,0,65,F,3,Asian,0,3,0,1,A
+200,1,77,F,4,White: British and Irish,2,3,0,3,D
+201,0,67,M,9,White: British and Irish,13,7,0,3,C
+202,0,84,F,4,White: British and Irish,10,12,0,22,A
+203,0,71,F,9,White: British and Irish,6,7,0,1,C
+204,0,79,F,10 (least deprived),White: British and Irish,7,7,0,13,C
+205,0,65,F,8,White: British and Irish,3,3,0,5,B
+206,0,68,M,9,White: Other,2,8,0,6,A
+207,0,89,F,10 (least deprived),White: British and Irish,3,4,0,5,D
+208,1,78,M,7,White: British and Irish,13,10,3,12,D
+209,1,90,F,7,White: British and Irish,4,4,0,7,D
+210,0,78,M,8,White: British and Irish,4,0,0,2,D
+211,0,70,M,4,Asian,10,15,2,10,A
+212,0,83,F,10 (least deprived),White: British and Irish,4,4,0,1,A
+213,0,67,F,10 (least deprived),White: British and Irish,6,7,0,6,A
+214,0,67,F,8,White: British and Irish,0,0,0,2,D
+215,0,79,M,4,Asian,3,6,0,9,A
+216,0,69,M,8,White: British and Irish,7,13,2,10,D
+217,0,83,F,7,White: British and Irish,10,8,0,12,D
+218,0,71,F,4,White: British and Irish,6,20,0,21,C
+219,0,73,F,8,White: British and Irish,2,6,0,0,B
+220,0,70,M,7,White: Other,3,5,0,9,D
+221,0,85,F,8,White: British and Irish,10,10,0,8,A
+222,0,68,F,5,White: British and Irish,3,4,0,8,A
+223,0,82,M,7,White: British and Irish,4,9,0,13,B
+224,0,77,M,8,White: British and Irish,9,14,0,24,D
+225,0,71,M,9,White: Other,8,5,0,1,B
+226,0,72,F,8,White: British and Irish,3,7,0,21,B
+227,0,85,F,7,White: British and Irish,9,16,0,24,B
+228,0,69,M,3,White: British and Irish,1,0,1,1,C
+229,0,65,F,8,White: British and Irish,4,0,0,0,A
+230,0,74,F,7,White: British and Irish,4,5,0,4,C
+231,0,103,F,6,White: British and Irish,4,5,0,7,C
+232,0,65,F,3,White: British and Irish,5,9,0,14,B
+233,0,87,F,10 (least deprived),White: British and Irish,8,10,0,5,C
+234,0,72,M,7,White: British and Irish,5,9,2,6,D
+235,0,68,F,8,White: British and Irish,2,0,0,2,B
+236,1,91,M,6,White: British and Irish,13,9,1,8,C
+237,0,90,F,8,White: British and Irish,14,11,1,26,D
+238,0,78,F,7,White: British and Irish,3,3,0,2,A
+239,0,72,F,4,White: British and Irish,4,3,0,0,D
+240,0,95,F,3,Black,13,17,0,13,D
+241,0,78,F,6,White: British and Irish,19,8,2,11,C
+242,0,70,F,10 (least deprived),White: British and Irish,6,7,0,5,A
+243,1,85,M,5,White: British and Irish,15,19,0,22,C
+244,0,72,M,3,White: British and Irish,8,8,0,23,B
+245,0,71,M,8,Other,0,0,0,3,A
+246,0,79,F,7,Asian,4,6,0,1,A
+247,0,67,F,8,White: British and Irish,0,9,0,15,B
+248,0,96,M,4,White: British and Irish,8,6,0,9,A
+249,1,79,F,7,White: British and Irish,5,18,0,16,A
+250,0,89,M,8,White: British and Irish,3,5,0,8,D
+251,0,89,F,9,White: British and Irish,3,0,0,5,B
+252,0,81,M,7,White: British and Irish,11,12,5,41,B
+253,0,75,M,1 (most deprived),White: Other,4,7,0,12,B
+254,0,68,F,9,White: British and Irish,0,3,0,3,C
+255,0,70,F,7,White: British and Irish,3,9,0,14,D
+256,1,95,F,9,White: British and Irish,13,18,0,41,D
+257,0,67,M,,White: British and Irish,0,0,0,3,C
+258,0,69,F,5,White: British and Irish,6,13,1,4,C
+259,0,67,M,4,White: British and Irish,0,3,0,4,D
+260,0,69,F,,White: British and Irish,3,3,0,3,D
+261,0,78,F,8,White: British and Irish,4,0,0,7,D
+262,1,94,F,4,White: British and Irish,5,6,0,30,B
+263,0,78,M,9,White: British and Irish,9,11,0,15,C
+264,0,75,F,2,White: British and Irish,4,6,0,6,D
+265,0,73,M,7,White: British and Irish,4,10,0,15,D
+266,0,68,F,8,White: British and Irish,0,3,4,9,B
+267,0,65,F,7,White: British and Irish,4,5,0,5,C
+268,0,70,M,10 (least deprived),White: British and Irish,4,9,0,18,A
+269,0,84,M,9,White: British and Irish,18,11,3,11,A
+270,0,70,F,5,White: British and Irish,7,5,0,5,B
+271,0,74,F,10 (least deprived),White: British and Irish,1,5,0,4,B
+272,0,77,F,6,Asian,2,6,0,3,C
+273,0,77,F,7,White: British and Irish,15,12,1,6,C
+274,1,94,F,8,White: British and Irish,5,6,0,13,B
+275,0,93,F,10 (least deprived),White: British and Irish,5,6,0,11,B
+276,1,74,M,3,White: British and Irish,4,10,1,16,A
+277,0,65,F,5,White: Other,0,1,0,0,C
+278,0,83,M,3,White: British and Irish,4,5,1,1,A
+279,0,87,F,10 (least deprived),White: British and Irish,7,6,0,12,C
+280,0,70,M,4,White: British and Irish,11,17,2,27,C
+281,0,69,M,3,White: British and Irish,9,7,2,8,D
+282,0,70,F,1 (most deprived),White: British and Irish,2,2,0,1,A
+283,1,67,F,5,White: British and Irish,6,14,5,17,D
+284,1,88,F,3,White: British and Irish,20,16,6,28,A
+285,1,78,M,9,White: British and Irish,9,23,2,58,A
+286,0,66,F,3,White: British and Irish,8,5,0,3,B
+287,0,67,F,8,White: British and Irish,18,14,3,13,B
+288,0,81,F,6,White: British and Irish,8,7,0,3,C
+289,0,67,M,4,White: British and Irish,7,10,0,15,D
+290,0,78,M,9,White: British and Irish,0,2,0,5,C
+291,0,84,M,10 (least deprived),White: British and Irish,4,7,0,6,D
+292,0,65,F,9,White: British and Irish,3,4,0,4,C
+293,0,70,F,2,Black,7,0,0,0,B
+294,0,74,M,6,White: British and Irish,6,16,0,16,C
+295,0,67,M,4,White: British and Irish,7,8,0,8,B
+296,0,73,F,7,White: British and Irish,7,12,2,12,B
+297,0,89,M,9,Asian,0,0,0,0,B
+298,1,78,M,5,White: British and Irish,26,33,3,89,A
+299,0,80,M,9,White: British and Irish,6,12,0,7,D
+300,0,65,F,8,White: British and Irish,12,22,3,14,C
+301,0,68,M,8,White: British and Irish,8,10,0,13,D
+302,0,69,F,6,White: British and Irish,4,3,1,0,C
+303,0,68,F,5,White: British and Irish,4,7,0,4,C
+304,0,68,M,5,White: British and Irish,6,4,3,7,A
+305,0,71,F,10 (least deprived),White: British and Irish,2,11,0,4,B
+306,1,83,M,6,White: Other,4,13,5,12,C
+307,0,66,F,10 (least deprived),White: British and Irish,13,10,0,16,B
+308,0,76,M,6,White: British and Irish,3,3,3,13,C
+309,0,80,F,1 (most deprived),White: British and Irish,4,1,0,4,B
+310,0,69,F,10 (least deprived),White: British and Irish,3,9,0,20,B
+311,0,72,M,2,White: British and Irish,5,9,0,6,A
+312,1,88,M,7,White: Other,7,7,0,8,A
+313,0,69,M,4,White: Other,4,9,0,15,A
+314,0,67,M,7,White: British and Irish,7,11,0,7,C
+315,0,68,F,2,White: British and Irish,9,9,0,7,D
+316,0,79,F,9,White: British and Irish,17,10,0,6,A
+317,0,67,F,9,White: British and Irish,1,1,0,6,B
+318,0,89,M,3,White: British and Irish,9,10,3,5,B
+319,0,85,F,7,White: British and Irish,19,15,0,22,D
+320,0,72,F,9,White: British and Irish,1,1,0,2,B
+321,0,67,F,8,White: British and Irish,2,0,0,1,C
+322,0,80,F,8,White: British and Irish,4,6,1,14,D
+323,0,87,F,8,White: British and Irish,16,13,0,21,C
+324,0,65,M,8,White: British and Irish,0,0,0,6,D
+325,0,85,M,7,White: British and Irish,1,4,0,2,C
+326,0,65,F,7,White: British and Irish,9,8,0,7,D
+327,0,77,M,3,White: British and Irish,2,10,0,9,C
+328,0,94,F,9,White: British and Irish,4,12,1,11,D
+329,0,67,F,1 (most deprived),Not stated,0,0,0,0,D
+330,0,66,F,2,White: Other,5,10,0,6,A
+331,1,89,M,10 (least deprived),White: British and Irish,10,16,0,5,D
+332,0,95,F,10 (least deprived),White: British and Irish,15,18,0,26,B
+333,0,77,F,3,White: British and Irish,4,3,0,1,C
+334,0,79,M,8,White: British and Irish,10,6,0,8,B
+335,0,67,F,7,White: British and Irish,3,0,0,1,A
+336,0,84,M,4,White: British and Irish,7,9,0,9,D
+337,0,65,M,2,White: British and Irish,2,0,0,0,A
+338,0,72,M,10 (least deprived),White: British and Irish,5,10,0,4,C
+339,0,69,M,6,White: British and Irish,7,5,0,7,B
+340,0,82,M,4,White: British and Irish,3,9,0,15,B
+341,0,77,F,4,White: British and Irish,6,6,0,12,D
+342,0,74,M,8,White: British and Irish,4,4,0,7,D
+343,0,65,F,1 (most deprived),White: British and Irish,15,14,0,17,B
+344,0,87,F,10 (least deprived),White: British and Irish,5,6,0,5,B
+345,0,70,F,7,White: British and Irish,8,4,0,1,C
+346,0,84,F,10 (least deprived),Asian,9,10,0,31,B
+347,0,65,M,5,Asian,8,16,0,36,A
+348,0,65,M,7,White: British and Irish,1,5,0,4,D
+349,0,72,F,1 (most deprived),White: Other,4,5,0,5,D
+350,0,68,F,5,White: British and Irish,0,0,0,5,B
+351,0,70,F,4,White: Other,4,7,0,9,D
+352,1,84,F,7,White: British and Irish,5,12,1,32,D
+353,0,94,M,10 (least deprived),White: British and Irish,12,7,0,19,B
+354,0,70,F,10 (least deprived),White: British and Irish,0,4,0,4,B
+355,0,78,M,4,White: British and Irish,5,1,0,12,B
+356,0,80,M,7,White: British and Irish,5,8,0,3,C
+357,0,75,M,2,White: British and Irish,6,6,0,5,D
+358,0,74,M,8,White: British and Irish,0,3,0,6,D
+359,0,65,M,6,Not stated,1,0,0,0,B
+360,1,89,F,5,White: British and Irish,21,15,3,28,B
+361,0,84,M,7,Black,2,0,0,1,A
+362,0,67,M,6,White: British and Irish,5,4,0,9,C
+363,0,65,M,6,Asian,5,10,0,10,A
+364,0,73,F,7,White: Other,4,5,0,1,C
+365,0,69,F,7,White: British and Irish,2,0,0,4,A
+366,0,72,F,9,White: British and Irish,8,8,0,4,C
+367,0,82,M,10 (least deprived),White: British and Irish,3,0,0,3,B
+368,0,79,F,3,White: British and Irish,3,5,3,4,B
+369,0,80,F,10 (least deprived),White: British and Irish,4,5,0,1,C
+370,0,93,F,10 (least deprived),White: British and Irish,4,20,3,29,B
+371,0,67,F,4,White: British and Irish,6,2,1,12,C
+372,0,84,M,8,White: British and Irish,3,4,0,6,D
+373,0,74,F,10 (least deprived),White: British and Irish,16,13,0,8,C
+374,0,77,F,7,White: British and Irish,7,7,1,9,D
+375,0,74,F,1 (most deprived),White: Other,0,0,0,0,D
+376,0,69,F,8,White: British and Irish,5,5,0,3,D
+377,0,87,F,6,White: British and Irish,16,12,1,14,D
+378,0,65,M,1 (most deprived),White: British and Irish,5,0,0,0,D
+379,0,68,M,5,White: British and Irish,3,0,0,4,A
+380,0,72,M,4,White: British and Irish,4,9,0,19,A
+381,0,87,M,10 (least deprived),White: British and Irish,12,15,0,14,A
+382,0,69,F,8,White: British and Irish,2,4,0,3,D
+383,0,71,M,2,White: British and Irish,10,11,0,2,C
+384,0,69,F,9,White: British and Irish,6,6,0,5,D
+385,0,74,F,8,White: British and Irish,3,9,0,17,D
+386,0,69,M,6,Not stated,1,5,3,11,C
+387,0,75,M,9,White: British and Irish,0,5,1,5,D
+388,1,72,F,6,White: British and Irish,29,41,7,73,A
+389,0,76,F,10 (least deprived),White: British and Irish,0,4,0,4,B
+390,0,75,M,10 (least deprived),White: British and Irish,0,2,0,3,C
+391,1,84,F,3,White: Other,26,29,2,45,B
+392,0,67,M,7,Not stated,0,5,1,31,D
+393,0,82,M,7,White: British and Irish,18,23,0,31,B
+394,0,88,F,8,Asian,4,3,0,2,C
+395,0,86,F,9,White: British and Irish,10,11,0,6,C
+396,0,76,F,4,White: British and Irish,3,3,0,2,C
+397,0,74,M,,White: British and Irish,2,0,0,0,B
+398,0,89,M,7,White: British and Irish,7,17,0,9,D
+399,0,75,F,7,White: British and Irish,4,9,0,5,D
+400,0,71,F,3,Asian,5,6,0,8,A
+401,0,74,M,8,White: British and Irish,3,0,0,0,A
+402,0,73,M,9,White: British and Irish,3,3,0,8,D
+403,0,83,M,8,White: British and Irish,6,2,0,9,D
+404,0,69,F,9,White: British and Irish,3,8,0,10,D
+405,0,79,M,7,White: British and Irish,7,13,1,22,C
+406,0,75,F,2,Asian,2,5,0,10,A
+407,0,81,F,4,White: British and Irish,5,6,0,6,A
+408,0,76,M,7,White: British and Irish,2,1,0,13,D
+409,0,76,M,6,White: British and Irish,23,20,3,14,C
+410,1,94,F,8,White: British and Irish,14,9,0,57,B
+411,0,90,F,9,White: British and Irish,7,3,3,7,B
+412,0,73,M,6,White: British and Irish,14,14,1,21,D
+413,0,71,M,4,Asian,6,13,0,11,C
+414,0,67,F,10 (least deprived),White: British and Irish,0,0,0,7,D
+415,0,80,F,10 (least deprived),White: British and Irish,6,2,1,16,A
+416,0,73,F,1 (most deprived),Black,6,16,0,22,A
+417,0,74,F,9,White: British and Irish,13,5,0,9,C
+418,0,81,F,8,White: British and Irish,4,0,0,0,D
+419,1,82,F,8,White: British and Irish,10,11,2,48,B
+420,0,84,F,2,White: British and Irish,7,14,4,21,A
+421,0,77,M,9,White: British and Irish,6,0,0,9,B
+422,0,71,F,8,White: British and Irish,8,12,0,29,D
+423,0,78,F,10 (least deprived),White: British and Irish,2,6,0,2,D
+424,0,71,F,10 (least deprived),White: British and Irish,4,0,0,2,C
+425,0,74,M,5,White: British and Irish,6,14,0,26,A
+426,0,84,F,6,White: British and Irish,13,11,3,23,B
+427,0,77,F,10 (least deprived),White: British and Irish,2,6,0,2,D
+428,0,68,F,10 (least deprived),White: British and Irish,4,0,0,4,A
+429,0,69,M,10 (least deprived),White: British and Irish,1,8,0,13,A
+430,0,90,M,10 (least deprived),Not stated,1,0,0,3,D
+431,0,73,M,8,White: British and Irish,0,3,0,3,D
+432,0,78,M,4,Mixed,4,8,0,7,C
+433,0,73,F,7,White: British and Irish,5,5,1,13,A
+434,0,71,F,10 (least deprived),White: British and Irish,5,3,0,6,D
+435,0,68,F,2,White: Other,0,0,0,0,A
+436,1,90,M,9,White: British and Irish,11,3,1,1,C
+437,0,77,F,3,Other,2,6,0,15,A
+438,0,90,F,7,White: British and Irish,16,11,0,12,D
+439,0,81,M,7,White: British and Irish,0,0,0,0,C
+440,0,69,M,4,White: British and Irish,3,11,0,12,A
+441,0,70,M,8,White: British and Irish,14,9,0,14,B
+442,0,76,F,9,White: British and Irish,3,6,0,4,D
+443,0,80,M,3,White: British and Irish,6,5,0,7,B
+444,0,78,M,7,White: British and Irish,2,0,0,0,B
+445,0,71,M,8,Not stated,5,6,0,18,D
+446,0,69,F,10 (least deprived),White: British and Irish,4,14,0,21,B
+447,0,71,F,5,White: British and Irish,3,1,2,12,B
+448,0,65,M,10 (least deprived),White: British and Irish,11,9,3,3,C
+449,0,68,F,7,White: British and Irish,1,4,0,8,D
+450,1,92,F,8,White: British and Irish,7,14,0,13,C
+451,1,93,F,7,White: British and Irish,11,12,0,6,C
+452,0,77,M,8,White: British and Irish,5,0,0,6,C
+453,0,78,M,9,White: British and Irish,3,10,0,7,B
+454,0,88,F,7,White: British and Irish,16,11,0,24,D
+455,0,72,M,7,Asian,5,13,0,7,C
+456,1,78,M,7,White: British and Irish,14,12,2,17,D
+457,1,87,M,8,White: British and Irish,15,17,1,19,C
+458,1,94,F,7,White: British and Irish,13,8,0,22,C
+459,1,76,M,1 (most deprived),White: British and Irish,4,20,0,29,A
+460,0,65,M,8,White: British and Irish,3,6,3,3,D
+461,0,76,F,7,Not stated,0,0,0,0,D
+462,0,90,M,4,White: British and Irish,3,12,0,1,D
+463,0,79,F,9,White: British and Irish,3,5,0,9,D
+464,1,76,M,2,White: British and Irish,20,12,4,16,A
+465,0,70,M,7,White: British and Irish,3,2,0,2,B
+466,0,66,F,9,White: British and Irish,2,5,0,6,D
+467,0,76,F,3,White: British and Irish,7,6,0,24,A
+468,0,78,F,6,White: British and Irish,7,2,0,2,C
+469,0,76,F,7,White: British and Irish,6,4,0,1,C
+470,1,86,M,6,White: Other,7,2,0,8,A
+471,0,90,F,4,White: British and Irish,4,8,0,10,A
+472,1,77,M,2,Asian,6,11,3,19,C
+473,0,67,M,6,Asian,4,3,0,7,A
+474,0,67,F,9,White: British and Irish,4,4,0,11,B
+475,0,76,F,10 (least deprived),White: Other,9,21,0,3,D
+476,0,82,M,6,White: British and Irish,7,2,0,14,B
+477,0,68,F,4,Asian,11,22,5,31,A
+478,0,65,M,5,Asian,4,3,0,4,C
+479,0,76,F,3,Asian,9,13,0,5,C
+480,0,74,F,7,White: British and Irish,1,2,0,8,A
+481,0,76,F,4,White: British and Irish,5,4,0,3,C
+482,0,68,F,9,White: British and Irish,2,0,0,9,B
+483,0,77,F,5,White: British and Irish,6,1,0,7,A
+484,0,85,F,9,White: British and Irish,4,7,0,9,A
+485,0,84,F,8,White: British and Irish,22,19,2,49,D
+486,0,81,M,10 (least deprived),White: British and Irish,1,1,0,6,B
+487,0,73,M,5,White: Other,0,0,0,0,C
+488,0,93,M,10 (least deprived),White: British and Irish,8,4,0,2,B
+489,0,65,F,2,Asian,5,10,0,22,A
+490,0,75,M,8,Not stated,0,0,0,0,C
+491,0,77,F,5,White: British and Irish,5,4,0,0,C
+492,0,65,M,1 (most deprived),White: British and Irish,3,3,0,8,C
+493,0,74,M,10 (least deprived),White: British and Irish,9,7,0,5,D
+494,0,95,M,9,White: British and Irish,11,12,2,9,D
+495,0,77,M,10 (least deprived),White: British and Irish,4,4,0,8,C
+496,0,68,M,10 (least deprived),White: British and Irish,4,3,0,9,B
+497,1,80,F,10 (least deprived),White: British and Irish,11,8,0,11,A
+498,0,84,M,7,White: Other,4,0,0,3,A
+499,0,81,M,7,White: British and Irish,9,7,0,3,A
+500,0,65,F,7,White: British and Irish,5,7,0,7,B
+501,0,80,F,3,White: British and Irish,3,2,1,2,C
+502,0,67,M,8,Asian,0,0,0,3,C
+503,0,73,F,7,White: British and Irish,2,4,0,5,C
+504,0,68,M,4,White: British and Irish,4,13,2,15,B
+505,0,85,M,8,White: British and Irish,0,0,0,2,D
+506,0,65,F,5,White: British and Irish,5,6,0,2,A
+507,0,76,F,2,White: British and Irish,10,2,0,11,B
+508,0,80,M,4,White: Other,4,8,0,9,A
+509,0,80,M,8,White: British and Irish,5,21,0,25,D
+510,0,75,M,9,White: British and Irish,6,5,0,6,C
+511,0,68,F,7,White: British and Irish,5,9,0,16,B
+512,0,74,F,3,White: British and Irish,1,4,0,6,C
+513,1,86,M,9,White: British and Irish,6,12,3,15,D
+514,0,71,M,9,White: British and Irish,7,9,2,5,C
+515,0,90,M,4,White: British and Irish,7,9,0,10,C
+516,1,94,M,3,White: British and Irish,14,18,4,53,B
+517,0,87,F,8,White: British and Irish,6,4,0,16,A
+518,0,73,M,8,White: British and Irish,3,1,0,0,B
+519,0,87,F,7,Not stated,10,5,0,11,B
+520,0,85,F,10 (least deprived),White: British and Irish,11,9,1,14,B
+521,0,72,M,9,White: British and Irish,5,14,0,9,C
+522,0,78,F,3,White: British and Irish,9,12,1,22,A
+523,0,72,M,6,White: British and Irish,4,13,0,10,C
+524,0,68,M,7,White: British and Irish,0,0,0,3,B
+525,0,71,M,9,White: British and Irish,1,0,0,0,D
+526,0,79,F,2,White: British and Irish,19,15,4,27,B
+527,0,71,F,10 (least deprived),White: British and Irish,6,7,0,15,B
+528,0,87,F,8,White: British and Irish,11,7,0,6,B
+529,0,74,M,5,White: British and Irish,1,2,5,5,D
+530,0,73,F,8,White: British and Irish,7,12,0,11,D
+531,0,65,F,1 (most deprived),White: Other,4,5,0,2,D
+532,1,92,F,3,White: British and Irish,5,11,0,21,A
+533,0,79,F,6,White: British and Irish,6,10,0,16,C
+534,1,80,M,8,White: British and Irish,6,8,0,6,A
+535,1,84,M,7,White: British and Irish,4,23,0,19,A
+536,0,80,M,9,White: British and Irish,1,1,0,4,B
+537,0,75,M,3,White: British and Irish,2,4,0,4,A
+538,0,79,M,9,White: British and Irish,4,5,0,4,D
+539,0,78,M,4,White: British and Irish,1,0,0,1,B
+540,0,68,F,5,White: British and Irish,3,2,0,8,C
+541,0,100,F,6,White: British and Irish,5,13,0,15,A
+542,0,65,F,3,White: British and Irish,0,0,0,0,D
+543,0,77,F,5,White: British and Irish,3,7,0,16,B
+544,0,77,F,10 (least deprived),White: British and Irish,3,1,0,4,D
+545,0,72,F,7,White: British and Irish,2,5,0,2,D
+546,0,67,M,7,Other,6,9,0,1,C
+547,0,65,F,9,White: British and Irish,1,5,0,6,A
+548,1,82,F,8,Black,11,10,0,31,B
+549,0,67,F,2,White: British and Irish,1,6,0,5,B
+550,0,70,F,8,White: British and Irish,4,4,0,3,D
+551,0,69,M,6,White: British and Irish,8,7,0,6,D
+552,0,78,F,5,White: British and Irish,4,7,0,5,C
+553,0,75,F,9,White: British and Irish,0,0,0,6,B
+554,0,84,F,8,White: British and Irish,6,6,0,7,B
+555,0,75,M,10 (least deprived),White: British and Irish,5,4,0,5,A
+556,0,80,M,8,White: British and Irish,15,18,5,27,A
+557,0,68,F,7,White: British and Irish,2,0,0,0,C
+558,0,75,M,4,Black,3,5,0,1,C
+559,0,68,M,4,White: British and Irish,8,10,0,10,A
+560,0,80,F,8,White: British and Irish,14,14,0,23,D
+561,0,83,F,9,White: British and Irish,9,11,4,25,B
+562,0,66,F,,Asian,2,6,0,0,C
+563,0,65,F,10 (least deprived),Asian,0,0,0,4,A
+564,0,78,M,6,White: British and Irish,0,0,0,1,C
+565,0,69,F,7,White: British and Irish,9,9,3,12,D
+566,0,72,M,7,Not stated,0,0,0,0,C
+567,0,84,F,1 (most deprived),White: British and Irish,18,21,7,12,D
+568,0,93,M,4,White: British and Irish,8,9,0,17,C
+569,0,68,M,8,White: British and Irish,8,16,0,13,D
+570,0,70,M,7,White: British and Irish,2,6,0,9,D
+571,0,77,F,9,White: British and Irish,0,0,0,2,D
+572,0,90,M,9,White: Other,11,3,0,9,A
+573,0,90,F,4,White: British and Irish,7,8,0,14,A
+574,0,72,F,5,White: British and Irish,1,7,0,3,C
+575,0,79,F,9,White: British and Irish,4,5,0,3,C
+576,0,88,F,8,White: British and Irish,12,14,0,5,A
+577,0,68,F,5,White: British and Irish,4,4,0,2,A
+578,1,86,M,4,Black,9,11,0,10,B
+579,0,81,F,7,White: British and Irish,1,3,0,8,D
+580,0,65,F,6,White: British and Irish,4,1,0,8,A
+581,0,68,F,5,Asian,7,6,0,6,A
+582,0,70,F,3,White: British and Irish,7,16,0,3,D
+583,0,71,F,7,White: British and Irish,2,14,0,7,A
+584,1,78,M,2,White: British and Irish,18,15,2,11,C
+585,0,73,F,10 (least deprived),Black,0,2,0,2,C
+586,1,91,F,6,White: British and Irish,12,3,0,9,C
+587,0,68,M,,Not stated,0,0,0,2,A
+588,0,70,F,8,White: British and Irish,6,11,2,9,D
+589,1,84,F,6,White: British and Irish,15,34,6,56,A
+590,0,77,F,4,White: British and Irish,3,4,0,15,D
+591,0,76,F,6,White: British and Irish,7,12,0,13,D
+592,0,75,F,7,White: British and Irish,8,13,0,5,D
+593,0,72,M,8,White: British and Irish,1,9,3,7,C
+594,0,76,M,7,White: British and Irish,11,5,0,7,B
+595,0,78,M,8,White: British and Irish,5,0,0,3,B
+596,0,86,M,8,White: British and Irish,3,14,0,34,D
+597,0,67,F,3,White: British and Irish,7,6,0,3,A
+598,1,70,F,3,White: British and Irish,12,23,5,89,A
+599,0,72,F,3,White: British and Irish,0,3,0,3,C
+600,0,68,F,10 (least deprived),White: British and Irish,3,8,0,5,D
+601,1,82,F,9,White: British and Irish,11,10,0,23,D
+602,0,68,M,9,White: British and Irish,0,1,0,3,C
+603,0,78,F,9,White: British and Irish,3,3,0,6,A
+604,0,80,M,7,White: British and Irish,0,0,0,0,D
+605,0,69,F,3,White: British and Irish,10,8,0,28,B
+606,0,65,F,9,White: Other,3,5,1,13,B
+607,0,73,F,5,White: British and Irish,6,12,0,3,B
+608,0,75,F,6,White: British and Irish,4,8,3,9,B
+609,0,92,F,4,White: Other,11,6,3,9,A
+610,0,70,F,6,White: British and Irish,9,6,0,2,C
+611,0,69,F,10 (least deprived),Mixed,11,25,0,14,D
+612,0,77,M,9,White: British and Irish,9,6,2,12,D
+613,0,74,F,9,White: British and Irish,0,0,0,2,B
+614,0,65,M,6,Asian,3,5,6,12,A
+615,0,65,F,9,Asian,6,8,0,14,C
+616,0,85,F,2,White: Other,4,6,0,2,C
+617,0,92,F,10 (least deprived),White: British and Irish,12,10,0,15,D
+618,0,75,F,2,White: Other,9,15,0,11,B
+619,0,79,F,6,White: British and Irish,0,0,0,0,A
+620,0,69,F,10 (least deprived),Asian,13,5,2,15,B
+621,0,90,M,8,White: British and Irish,6,1,4,4,D
+622,0,75,M,4,Asian,0,0,0,0,C
+623,0,82,M,6,Asian,10,14,0,25,C
+624,0,87,F,7,White: British and Irish,6,5,0,5,A
+625,0,65,F,8,White: British and Irish,5,11,0,24,D
+626,0,69,F,8,White: British and Irish,3,5,0,3,D
+627,0,65,M,8,White: Other,4,4,0,9,D
+628,0,85,M,3,White: British and Irish,6,0,0,0,B
+629,0,73,M,6,White: British and Irish,8,16,1,16,C
+630,0,69,F,7,White: British and Irish,3,6,0,2,D
+631,0,73,M,7,White: British and Irish,4,11,0,8,D
+632,0,85,M,9,White: British and Irish,4,5,0,9,C
+633,0,79,F,7,White: British and Irish,23,16,0,23,D
+634,1,87,M,4,White: British and Irish,7,17,0,23,C
+635,0,72,F,5,White: Other,0,0,2,4,D
+636,1,99,M,3,White: British and Irish,21,13,7,64,B
+637,0,71,F,5,Mixed,12,8,2,5,D
+638,0,70,M,2,White: British and Irish,2,4,0,5,A
+639,0,65,F,7,White: British and Irish,1,9,0,2,D
+640,0,66,F,4,Asian,3,4,0,2,C
+641,0,80,M,3,White: British and Irish,0,5,0,6,D
+642,0,77,M,6,White: British and Irish,5,5,0,3,A
+643,0,70,F,5,White: British and Irish,4,2,0,4,B
+644,0,69,M,4,White: British and Irish,3,0,0,0,C
+645,1,81,M,10 (least deprived),White: British and Irish,11,7,0,14,B
+646,0,65,F,9,White: British and Irish,3,7,0,7,C
+647,0,79,M,7,Asian,5,13,0,10,C
+648,0,77,F,9,White: British and Irish,1,0,0,1,D
+649,0,67,F,8,White: British and Irish,1,1,0,4,D
+650,0,69,F,1 (most deprived),Not stated,0,0,0,0,A
+651,0,74,M,4,Asian,8,5,0,2,C
+652,0,92,F,7,White: British and Irish,6,5,2,5,B
+653,0,79,F,2,White: British and Irish,7,6,0,5,A
+654,0,82,F,7,White: British and Irish,8,5,0,3,D
+655,0,79,F,8,White: British and Irish,4,4,0,6,C
+656,0,70,F,7,White: British and Irish,0,0,0,4,C
+657,0,69,F,10 (least deprived),White: British and Irish,5,10,0,7,C
+658,0,87,M,3,Black,7,6,1,13,C
+659,0,79,F,1 (most deprived),White: British and Irish,4,5,0,8,B
+660,0,81,F,6,White: British and Irish,7,5,0,0,C
+661,1,87,M,9,White: British and Irish,12,17,2,17,D
+662,0,83,M,7,White: British and Irish,9,14,0,8,D
+663,0,74,F,10 (least deprived),White: British and Irish,0,0,0,0,A
+664,0,75,F,3,Asian,3,13,0,0,C
+665,0,65,F,10 (least deprived),White: British and Irish,11,8,2,7,C
+666,0,76,F,8,White: British and Irish,4,3,0,7,B
+667,0,72,M,9,White: British and Irish,9,11,0,3,D
+668,0,71,M,7,White: British and Irish,7,15,1,22,B
+669,0,79,F,8,White: British and Irish,5,5,0,6,B
+670,0,88,F,8,White: British and Irish,6,4,1,13,C
+671,0,70,F,9,White: British and Irish,6,5,0,6,A
+672,0,70,M,6,White: British and Irish,4,9,0,2,C
+673,0,72,M,7,White: Other,4,4,0,4,C
+674,0,89,F,6,White: British and Irish,10,12,0,21,A
+675,0,77,F,7,White: British and Irish,3,2,0,3,C
+676,0,78,M,7,White: British and Irish,12,6,0,8,D
+677,0,74,F,10 (least deprived),White: British and Irish,7,2,0,7,B
+678,0,95,F,9,White: Other,11,2,0,0,C
+679,0,81,F,5,White: British and Irish,13,10,0,13,C
+680,0,94,F,4,White: Other,7,5,0,7,A
+681,0,84,F,7,White: British and Irish,2,0,0,2,D
+682,0,80,M,8,Not stated,4,8,0,9,D
+683,0,80,F,10 (least deprived),White: British and Irish,6,4,0,14,A
+684,0,89,F,7,White: British and Irish,18,8,0,18,A
+685,0,67,M,1 (most deprived),White: Other,5,11,0,3,A
+686,0,85,M,1 (most deprived),White: British and Irish,13,7,2,6,A
+687,0,76,F,6,White: British and Irish,9,12,0,9,D
+688,0,78,F,7,White: Other,3,0,0,0,A
+689,0,73,F,6,White: British and Irish,0,3,0,5,B
+690,0,87,F,3,White: British and Irish,8,13,0,24,B
+691,0,65,F,8,White: British and Irish,1,0,0,5,D
+692,0,70,F,3,Asian,2,13,0,17,B
+693,0,66,F,5,White: British and Irish,6,9,0,1,C
+694,0,69,F,10 (least deprived),White: British and Irish,2,3,0,7,B
+695,0,80,M,9,White: British and Irish,8,2,0,13,C
+696,0,80,F,3,White: British and Irish,14,16,1,43,B
+697,0,97,F,8,White: British and Irish,14,7,2,10,A
+698,0,100,F,3,White: Other,6,4,0,0,B
+699,0,75,M,9,White: British and Irish,5,11,0,11,B
+700,0,81,F,5,White: British and Irish,7,4,0,10,A
+701,0,75,F,9,White: British and Irish,3,3,0,10,B
+702,0,76,F,8,White: British and Irish,9,6,0,8,D
+703,0,74,F,6,White: British and Irish,0,0,0,4,C
+704,0,77,M,2,White: British and Irish,3,4,0,9,A
+705,0,85,F,1 (most deprived),White: British and Irish,3,0,0,0,A
+706,0,85,M,7,White: British and Irish,0,0,0,1,C
+707,0,89,M,7,White: British and Irish,11,10,0,9,D
+708,0,73,F,6,Asian,4,12,0,12,C
+709,0,70,F,7,White: Other,5,7,0,10,C
+710,0,65,F,9,Not stated,0,0,0,0,B
+711,0,74,M,8,White: Other,0,3,0,1,C
+712,0,74,F,7,White: British and Irish,16,11,5,15,A
+713,0,69,F,10 (least deprived),White: British and Irish,0,0,0,3,C
+714,0,65,F,10 (least deprived),White: British and Irish,0,3,0,2,D
+715,0,77,F,1 (most deprived),White: British and Irish,13,10,2,6,B
+716,0,71,M,8,Black,4,10,0,23,C
+717,0,79,F,7,White: British and Irish,6,7,0,18,D
+718,0,74,M,4,White: Other,6,16,0,20,A
+719,0,80,M,1 (most deprived),White: Other,12,21,0,26,C
+720,0,76,F,2,White: British and Irish,9,21,1,20,A
+721,0,67,F,8,White: British and Irish,2,2,0,1,B
+722,0,68,F,7,White: British and Irish,1,5,0,1,C
+723,0,81,M,7,White: British and Irish,6,11,0,4,B
+724,0,68,M,7,White: British and Irish,4,4,0,0,C
+725,0,79,F,8,White: British and Irish,15,22,0,52,D
+726,0,73,M,3,White: British and Irish,5,6,0,3,C
+727,0,73,M,9,White: British and Irish,6,16,0,14,D
+728,0,79,M,9,White: British and Irish,1,1,0,6,B
+729,0,72,M,7,White: British and Irish,2,4,0,12,D
+730,0,70,M,2,White: British and Irish,8,8,0,11,A
+731,0,70,F,3,White: Other,0,0,0,0,C
+732,0,80,F,10 (least deprived),White: British and Irish,8,1,2,5,D
+733,0,73,F,9,Mixed,5,4,0,5,B
+734,0,94,F,7,White: British and Irish,7,8,3,7,D
+735,0,65,M,4,White: British and Irish,2,3,0,0,D
+736,0,65,M,3,White: British and Irish,5,1,0,13,B
+737,0,75,M,6,White: British and Irish,5,9,0,5,B
+738,0,77,M,10 (least deprived),White: British and Irish,4,9,0,25,B
+739,0,76,M,7,White: British and Irish,0,7,0,3,D
+740,0,68,F,8,White: British and Irish,6,5,0,5,D
+741,0,76,F,4,White: British and Irish,16,16,0,12,C
+742,0,83,F,7,White: British and Irish,13,11,0,34,C
+743,0,84,F,8,White: British and Irish,3,9,0,4,D
+744,0,73,F,3,White: British and Irish,6,5,0,7,A
+745,0,75,F,10 (least deprived),White: British and Irish,8,5,0,7,A
+746,0,75,F,5,White: British and Irish,0,0,0,1,D
+747,0,65,M,3,White: British and Irish,6,11,2,21,C
+748,0,76,M,8,White: British and Irish,13,8,0,11,D
+749,0,70,M,3,White: British and Irish,1,5,0,7,A
+750,0,69,F,2,White: British and Irish,5,2,0,1,A
+751,0,78,M,7,White: British and Irish,7,6,0,7,B
+752,0,73,F,8,White: British and Irish,5,4,0,15,A
+753,0,65,M,5,White: Other,4,6,0,11,D
+754,0,69,M,9,White: British and Irish,2,12,0,14,A
+755,1,80,F,3,White: British and Irish,17,14,1,12,A
+756,0,78,M,5,White: British and Irish,10,15,0,13,D
+757,0,68,M,9,White: British and Irish,3,2,1,4,C
+758,0,77,F,7,White: British and Irish,11,11,0,3,A
+759,0,76,F,5,White: British and Irish,3,16,0,21,D
+760,0,82,F,4,White: British and Irish,6,7,0,20,A
+761,0,77,M,7,White: British and Irish,8,8,0,14,A
+762,0,84,M,6,White: British and Irish,4,6,0,0,C
+763,0,72,M,7,Not stated,2,0,0,3,D
+764,0,88,F,8,White: British and Irish,0,4,0,0,B
+765,0,69,M,4,White: British and Irish,5,12,0,22,B
+766,0,69,M,7,White: British and Irish,4,5,0,4,B
+767,1,74,F,6,White: British and Irish,6,3,1,0,C
+768,0,84,F,6,White: British and Irish,2,1,0,6,D
+769,0,83,F,4,Not stated,3,2,0,0,C
+770,0,75,M,4,White: British and Irish,0,0,0,3,D
+771,0,66,M,8,White: British and Irish,2,5,0,6,D
+772,0,79,F,5,White: British and Irish,13,10,3,19,A
+773,0,82,F,8,White: British and Irish,11,16,2,16,D
+774,0,72,M,10 (least deprived),White: Other,3,4,0,3,A
+775,0,74,M,10 (least deprived),White: British and Irish,3,11,0,18,B
+776,0,86,M,4,White: British and Irish,10,8,2,16,D
+777,0,65,F,9,White: British and Irish,6,4,0,10,D
+778,0,69,M,6,Asian,4,0,0,1,A
+779,0,69,F,5,Asian,4,1,0,9,A
+780,0,70,M,6,White: British and Irish,3,3,0,0,C
+781,0,73,F,4,White: British and Irish,0,3,0,4,C
+782,0,66,F,5,White: British and Irish,8,10,2,27,D
+783,0,78,F,7,Other,2,0,0,0,C
+784,0,80,M,2,White: British and Irish,8,9,0,8,B
+785,0,69,M,7,White: British and Irish,0,6,0,5,A
+786,0,80,M,6,White: British and Irish,2,0,0,0,C
+787,0,71,F,4,Asian,0,0,0,0,C
+788,0,75,M,10 (least deprived),White: British and Irish,3,9,0,17,D
+789,1,66,F,8,Asian,5,5,0,0,A
+790,0,77,F,9,White: British and Irish,5,12,3,18,B
+791,1,92,M,3,Asian,14,18,3,77,B
+792,0,75,M,8,White: British and Irish,15,16,0,15,D
+793,0,79,F,9,White: British and Irish,1,14,0,18,A
+794,0,80,F,9,White: British and Irish,2,7,1,7,B
+795,0,65,F,6,White: British and Irish,18,27,1,47,C
+796,0,73,F,6,White: Other,5,13,0,9,C
+797,0,75,M,8,White: British and Irish,3,4,0,1,A
+798,0,71,M,8,White: British and Irish,9,7,4,10,D
+799,0,80,F,2,White: British and Irish,3,10,0,11,B
+800,0,87,F,3,White: British and Irish,4,7,0,5,C
+801,0,77,F,3,White: British and Irish,10,9,0,0,D
+802,0,70,F,8,White: British and Irish,8,6,0,6,B
+803,0,66,M,2,White: British and Irish,6,6,0,11,A
+804,0,81,M,9,White: British and Irish,11,13,0,53,B
+805,0,74,M,2,White: British and Irish,6,7,0,28,D
+806,0,69,M,5,White: British and Irish,7,9,3,12,D
+807,0,78,F,6,White: British and Irish,20,19,2,10,C
+808,0,78,F,9,White: British and Irish,9,16,0,24,D
+809,0,81,M,8,White: British and Irish,2,1,0,0,B
+810,0,78,F,8,White: British and Irish,10,8,4,8,C
+811,0,65,M,4,White: British and Irish,2,3,0,6,D
+812,0,89,F,9,White: British and Irish,7,10,0,18,A
+813,0,78,M,3,White: British and Irish,7,9,0,6,C
+814,0,83,F,7,Asian,4,6,0,6,A
+815,0,85,F,8,White: British and Irish,8,16,0,20,D
+816,0,90,M,7,White: British and Irish,13,7,3,4,B
+817,1,85,F,9,White: Other,9,12,4,69,D
+818,0,67,F,6,White: British and Irish,1,7,0,4,C
+819,0,75,F,7,White: British and Irish,0,1,0,2,D
+820,0,80,F,7,White: British and Irish,8,8,3,17,B
+821,0,72,M,7,White: British and Irish,8,10,0,6,D
+822,0,83,F,4,White: British and Irish,5,8,0,14,A
+823,0,75,M,5,White: British and Irish,4,9,0,13,D
+824,1,77,F,7,White: British and Irish,4,11,0,13,C
+825,0,78,M,5,White: British and Irish,4,5,0,5,B
+826,0,78,F,7,White: British and Irish,3,0,0,8,D
+827,0,76,M,7,White: British and Irish,3,14,0,8,D
+828,0,82,M,6,White: British and Irish,10,11,3,23,B
+829,0,71,M,7,White: British and Irish,10,11,0,7,B
+830,0,81,F,8,White: British and Irish,4,7,0,3,A
+831,0,65,F,7,White: Other,0,0,0,3,D
+832,0,78,F,10 (least deprived),White: British and Irish,0,7,0,7,B
+833,0,80,M,10 (least deprived),White: British and Irish,4,7,0,10,B
+834,1,83,M,4,White: British and Irish,9,12,0,20,A
+835,0,80,M,8,White: British and Irish,10,7,0,4,A
+836,0,76,M,9,White: British and Irish,5,4,0,6,D
+837,0,65,F,10 (least deprived),White: British and Irish,0,6,0,7,D
+838,0,73,F,5,White: British and Irish,3,0,0,4,C
+839,1,85,F,9,White: British and Irish,7,8,3,28,A
+840,0,87,F,3,White: British and Irish,3,8,0,7,B
+841,0,80,F,7,White: British and Irish,14,7,1,22,B
+842,0,69,F,9,White: British and Irish,6,6,0,6,B
+843,0,80,F,8,White: British and Irish,6,7,0,8,C
+844,0,70,F,8,White: British and Irish,1,4,0,3,D
+845,0,66,M,6,White: British and Irish,11,21,0,26,B
+846,0,71,M,6,White: British and Irish,6,5,3,5,C
+847,0,80,F,7,White: British and Irish,9,8,2,11,C
+848,0,91,M,10 (least deprived),Black,8,10,0,4,D
+849,0,82,M,10 (least deprived),White: British and Irish,13,13,0,33,A
+850,0,70,F,5,Black,2,0,0,0,A
+851,0,83,F,7,White: British and Irish,7,8,3,4,B
+852,0,81,F,10 (least deprived),White: British and Irish,10,8,0,12,B
+853,0,69,F,6,White: Other,0,8,0,2,D
+854,0,80,M,9,White: Other,2,0,0,0,C
+855,0,68,M,8,White: British and Irish,0,5,0,4,D
+856,0,80,F,6,White: British and Irish,3,7,0,14,C
+857,0,73,M,3,Asian,10,20,0,17,A
+858,0,69,M,7,White: British and Irish,3,0,0,0,B
+859,0,66,M,4,White: British and Irish,0,0,0,7,C
+860,0,70,F,7,White: British and Irish,3,1,0,5,C
+861,0,70,F,5,White: Other,0,0,0,0,C
+862,0,71,M,4,Black,5,3,1,7,A
+863,0,87,M,5,White: British and Irish,8,8,3,16,A
+864,0,81,M,3,Asian,3,14,0,20,C
+865,0,82,M,2,White: British and Irish,7,5,0,7,B
+866,0,79,F,10 (least deprived),White: British and Irish,17,19,4,20,C
+867,0,75,M,6,White: British and Irish,4,6,0,4,C
+868,1,76,M,3,White: British and Irish,17,15,4,24,A
+869,1,94,F,5,Asian,12,12,2,18,A
+870,0,68,F,1 (most deprived),Mixed,0,3,0,0,B
+871,0,71,M,8,White: British and Irish,4,8,0,9,D
+872,0,82,F,7,White: British and Irish,6,8,0,2,C
+873,0,68,M,8,White: British and Irish,7,11,0,23,B
+874,0,70,F,3,White: British and Irish,14,13,4,27,B
+875,1,84,F,3,Black,7,6,0,12,A
+876,0,76,F,8,White: British and Irish,0,8,0,18,B
+877,0,65,M,,White: British and Irish,1,0,0,8,B
+878,0,76,M,8,White: British and Irish,14,10,0,21,D
+879,0,86,M,5,White: British and Irish,15,14,5,11,D
+880,0,68,F,4,Asian,3,9,0,9,C
+881,1,95,F,7,White: British and Irish,13,14,4,23,A
+882,0,74,F,8,White: British and Irish,9,9,0,13,D
+883,1,83,F,2,White: Other,8,3,3,10,A
+884,0,80,F,9,Asian,8,19,0,13,A
+885,0,72,F,7,White: British and Irish,6,9,0,3,C
+886,0,74,M,8,White: British and Irish,3,12,3,20,D
+887,0,72,F,2,Asian,6,13,0,16,A
+888,0,68,M,8,White: British and Irish,2,0,0,5,B
+889,0,84,F,10 (least deprived),White: British and Irish,5,12,0,6,D
+890,0,74,F,9,White: British and Irish,8,7,0,13,C
+891,0,75,F,7,Not stated,0,6,0,6,D
+892,0,65,F,5,White: British and Irish,4,7,0,2,D
+893,0,81,M,1 (most deprived),White: British and Irish,7,4,0,6,A
+894,0,77,M,6,White: Other,6,10,0,22,A
+895,0,76,M,6,White: British and Irish,0,2,0,0,C
+896,0,72,F,6,White: British and Irish,1,3,0,4,D
+897,0,79,F,7,White: British and Irish,3,6,0,11,D
+898,0,70,F,5,White: British and Irish,5,6,0,5,B
+899,0,80,M,9,White: British and Irish,6,4,0,8,C
+900,0,83,F,8,White: British and Irish,8,21,0,23,A
+901,0,65,M,10 (least deprived),White: British and Irish,7,5,0,5,A
+902,0,97,F,7,Mixed,7,16,3,19,A
+903,0,78,M,6,White: British and Irish,9,16,0,12,A
+904,0,70,M,10 (least deprived),White: British and Irish,4,9,0,7,A
+905,0,65,M,6,White: British and Irish,2,7,0,12,B
+906,0,68,F,7,White: Other,7,7,0,14,C
+907,0,68,M,2,Other,2,5,0,12,B
+908,0,84,F,7,White: British and Irish,9,5,0,8,A
+909,0,70,F,9,White: British and Irish,0,3,0,9,D
+910,0,70,M,7,White: British and Irish,3,5,0,1,D
+911,0,72,M,9,White: British and Irish,2,5,4,15,D
+912,0,73,M,3,White: British and Irish,0,0,0,0,A
+913,0,76,F,2,White: British and Irish,3,10,0,15,A
+914,0,74,M,4,White: British and Irish,7,9,0,4,B
+915,0,80,M,7,White: British and Irish,1,2,0,2,D
+916,1,82,M,3,White: British and Irish,17,17,4,24,D
+917,0,82,F,7,White: British and Irish,9,23,6,39,D
+918,0,68,F,4,White: British and Irish,4,3,0,6,D
+919,0,70,F,8,White: British and Irish,1,5,0,8,D
+920,0,68,M,9,White: British and Irish,7,8,0,5,C
+921,0,71,M,9,White: British and Irish,0,0,0,0,D
+922,0,86,M,4,White: British and Irish,8,19,1,54,C
+923,0,72,M,2,White: British and Irish,7,17,0,18,A
+924,0,68,M,8,White: British and Irish,3,5,0,9,D
+925,0,80,F,9,White: British and Irish,3,1,0,6,A
+926,0,86,F,1 (most deprived),White: British and Irish,1,4,0,5,A
+927,0,83,M,3,White: British and Irish,8,13,0,1,C
+928,0,79,M,8,Not stated,1,2,0,1,A
+929,0,66,M,6,White: British and Irish,10,22,1,21,C
+930,0,67,M,9,White: Other,5,10,0,17,B
+931,0,103,F,7,White: British and Irish,3,6,2,13,A
+932,0,73,F,9,White: British and Irish,0,1,0,3,B
+933,0,85,M,4,White: British and Irish,8,12,1,16,B
+934,0,82,M,8,White: British and Irish,3,4,0,9,B
+935,0,85,M,,White: British and Irish,10,7,0,6,C
+936,1,79,M,2,White: British and Irish,16,15,1,66,B
+937,0,75,F,9,White: British and Irish,0,0,0,8,B
+938,0,69,M,8,White: British and Irish,0,0,0,5,C
+939,0,71,F,6,White: British and Irish,0,2,0,3,C
+940,0,82,F,7,White: British and Irish,15,9,3,6,D
+941,0,69,F,4,White: British and Irish,8,17,0,40,A
+942,0,81,M,4,White: British and Irish,11,7,0,6,C
+943,0,76,F,7,White: Other,3,2,0,2,A
+944,0,89,M,9,White: Other,7,13,0,16,C
+945,0,73,F,6,White: British and Irish,10,12,8,53,C
+946,0,80,M,7,White: Other,6,10,0,9,C
+947,0,94,M,10 (least deprived),White: British and Irish,5,6,0,0,B
+948,0,65,F,5,Mixed,4,8,2,9,A
+949,0,89,F,8,White: British and Irish,7,6,0,8,B
+950,0,80,F,5,Asian,4,5,0,0,A
+951,0,65,F,4,Asian,3,10,2,14,B
+952,0,80,F,3,White: British and Irish,0,6,0,6,A
+953,0,88,M,10 (least deprived),White: British and Irish,5,11,0,42,A
+954,0,67,M,8,White: British and Irish,5,6,0,5,B
+955,0,66,F,8,White: British and Irish,5,9,0,17,D
+956,0,67,M,7,White: British and Irish,0,3,0,10,D
+957,0,69,M,8,White: British and Irish,0,5,0,20,B
+958,0,78,M,2,Asian,14,17,3,29,A
+959,0,76,F,7,White: British and Irish,6,5,0,6,D
+960,0,82,F,6,White: British and Irish,2,10,2,15,A
+961,0,75,M,9,Asian,3,9,0,9,A
+962,0,69,F,4,White: British and Irish,5,7,0,10,B
+963,0,71,M,9,White: British and Irish,5,6,0,10,B
+964,0,80,M,8,White: British and Irish,3,10,0,11,B
+965,0,94,M,3,White: British and Irish,7,16,1,16,D
+966,0,65,F,8,Asian,4,2,0,3,C
+967,0,76,F,9,White: British and Irish,4,8,0,10,A
+968,0,84,M,8,White: British and Irish,3,3,0,10,D
+969,1,94,F,8,White: British and Irish,6,9,1,28,D
+970,0,91,F,7,White: British and Irish,0,0,0,2,D
+971,0,78,M,7,White: British and Irish,0,3,0,10,B
+972,1,94,M,8,White: Other,13,20,4,32,C
+973,0,78,F,8,White: British and Irish,7,6,0,2,C
+974,0,71,M,4,White: British and Irish,3,4,0,5,A
+975,0,69,F,8,White: British and Irish,1,4,0,13,D
+976,0,69,F,7,White: British and Irish,2,0,0,0,D
+977,0,80,M,2,White: British and Irish,8,6,0,11,D
+978,0,69,M,10 (least deprived),Black,11,15,0,7,A
+979,0,74,F,8,White: British and Irish,1,0,0,4,D
+980,0,72,F,1 (most deprived),Black,1,0,0,2,C
+981,0,78,F,9,White: British and Irish,12,13,0,16,D
+982,0,71,F,8,White: British and Irish,4,4,0,8,D
+983,0,73,M,6,White: British and Irish,4,5,0,10,C
+984,0,74,F,2,White: Other,8,5,0,12,B
+985,0,79,M,8,White: British and Irish,2,7,0,9,D
+986,0,76,M,4,White: British and Irish,5,1,0,3,C
+987,0,78,M,10 (least deprived),White: British and Irish,19,16,1,27,A
+988,0,89,F,3,White: British and Irish,2,3,0,8,B
+989,0,68,F,2,White: Other,2,3,0,3,A
+990,0,79,F,10 (least deprived),White: British and Irish,8,12,0,14,B
+991,0,79,M,6,White: British and Irish,10,11,0,5,D
+992,0,70,F,10 (least deprived),White: British and Irish,5,11,0,3,D
+993,0,65,F,5,White: British and Irish,4,10,1,3,A
+994,0,83,F,10 (least deprived),White: British and Irish,9,13,0,19,B
+995,0,80,F,9,White: British and Irish,4,0,0,3,A
+996,0,70,M,4,White: British and Irish,1,0,0,1,C
+997,0,69,M,9,White: British and Irish,5,11,0,18,C
+998,0,65,F,7,White: British and Irish,4,5,2,9,D
+999,0,70,F,8,White: British and Irish,0,8,0,12,D
+1000,0,74,M,10 (least deprived),White: British and Irish,7,5,0,4,A
